@@ -50,7 +50,7 @@ Estos archivos se generan en un formato compatible con software de análisis est
 
 Puedes ejecutar el notebook directamente en Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mihrsozs/nch2369_25_espectro_diseno/blob/main/NCh2369_2025.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mihrsozs/nch2369_2025_espectro_diseno/blob/main/NCh2369_2025.ipynb)
 
 ---
 
